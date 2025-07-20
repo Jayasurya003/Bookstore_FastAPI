@@ -88,24 +88,3 @@ uvicorn main:app --reload
 * Add pagination or search filtering
 
 ---
-
-## 📜 License
-
-This project is for learning purposes and is open to improvement and extension.
-
----
-
-````
-
-### ✅ How to Use It
-
-1. Save the above content in a file called `README.md` inside your project.
-2. Commit and push it:
-
-```bash
-git add README.md
-git commit -m "Add README"
-git push
-````
-
----
